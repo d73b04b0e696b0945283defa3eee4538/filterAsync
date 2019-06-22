@@ -1,5 +1,5 @@
 {
-  "name": "filter_async",
+  "name": "@ganeshnaidu/filter_async",
   "version": "1.0.0",
   "description": "The filterAsync() creates a new array with all elements that pass the test implemented by the provided function asynchronously which means no thread blocking until everything is filtered. Helps you with filtering bigarrays",
   "dependencies": {
