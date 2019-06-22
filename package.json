@@ -1,5 +1,5 @@
 {
-  "name": "filterAsync",
+  "name": "filter_async",
   "version": "1.0.0",
   "description": "The filterAsync() creates a new array with all elements that pass the test implemented by the provided function asynchronously which means no thread blocking until everything is filtered. Helps you with filtering bigarrays",
   "dependencies": {
@@ -13,6 +13,14 @@
   "scripts": {
     "test": "mocha test --color"
   },
-  "author": "ganesh",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganeshnaidu/filterAsync.git"
+  },
+  "keywords": ["filter", "async", "filterAsync", "array", "bigarray"],
+  "author": "ganeshnaidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshnaidu/filterAsync/issues"
+  }
 }
