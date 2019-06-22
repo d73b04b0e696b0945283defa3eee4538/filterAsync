@@ -29,8 +29,19 @@ const test = (sport) => ["Chess", "Tennis", "Cricket"].includes(sport);
 
 ## Run Example
 
-``` node example ```
+``` 
+git clone https://github.com/ganeshnaidu/filterAsync.git
+cd filterAsync
+npm install
+node example 
+```
 
 ## Test
 
-``` npm test ```
+
+``` 
+git clone https://github.com/ganeshnaidu/filterAsync.git
+cd filterAsync
+npm install
+node test 
+```
