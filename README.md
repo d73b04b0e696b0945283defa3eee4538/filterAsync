@@ -6,7 +6,7 @@ The filterAsync() creates a new array with all elements that pass the test imple
 ### Node.js
 filterAsync is available on npm. To install it, type:
 
-``` $ npm install filterAsync ```
+``` $ npm install @ganeshnaidu/filter_async ```
 
 ## Usage
 
@@ -14,7 +14,7 @@ filterAsync is available on npm. To install it, type:
 'use strict';
 
 // Import Package
-const filterAsync = require("filterAsync");
+const filterAsync = require("@ganeshnaidu/filter_async");
 
 const games = ["Chess", "Cricket", "Soccer", "Tennis"];
 const test = (sport) => ["Chess", "Tennis", "Cricket"].includes(sport);
