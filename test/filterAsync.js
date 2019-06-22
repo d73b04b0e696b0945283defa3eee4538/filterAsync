@@ -6,7 +6,7 @@ const chaiAsPromised = require('chai-as-promised');
 chai.use(chaiAsPromised);
 const assert = chai.assert;
 
-const filterAsync = require('../filterAsync.js');
+const filterAsync = require('../index.js');
 
 
 describe('filterAsync', function () {

@@ -1,7 +1,7 @@
 'use strict';
 
 // Module
-const filterAsync = require("../filterAsync.js");
+const filterAsync = require("../index.js");
 const games = ["Chess", "Cricket", "Soccer", "Tennis"];
 const test = (sport) => ["Chess", "Tennis", "Cricket"].includes(sport);
 
