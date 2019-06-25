@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ganeshnaidu/filterAsync.svg?branch=master)](https://travis-ci.com/ganeshnaidu/filterAsync)
+
 # filterAsync
 The filterAsync() creates a new array with all elements that pass the test implemented by the provided function asynchronously which means no thread blocking until everything is filtered. Helps you with filtering bigarrays
 
